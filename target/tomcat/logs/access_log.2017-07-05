@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:25 +0300] "GET / HTTP/1.1" 200 690 http-bio-8888-exec-1 798
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:27 +0300] "GET /users.html HTTP/1.1" 200 4849 http-bio-8888-exec-2 795
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:29 +0300] "GET /editUser.html?id=1 HTTP/1.1" 200 1280 http-bio-8888-exec-3 245
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:30 +0300] "POST /editUser.html?id=1 HTTP/1.1" 302 - http-bio-8888-exec-4 67
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:30 +0300] "GET /users.html HTTP/1.1" 200 4849 http-bio-8888-exec-5 22
-0:0:0:0:0:0:0:1 - - [05/Jul/2017:18:32:32 +0300] "GET /addUser.html HTTP/1.1" 200 1231 http-bio-8888-exec-6 10
